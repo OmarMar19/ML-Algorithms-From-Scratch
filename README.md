@@ -8,17 +8,29 @@ The goal is to deeply understand how ML models work under the hood — not just 
 
 ## 📂 Project Structure
 ML-Algorithms-From-Scratch/
+
 │── Algorithms/ # All scratch implementations
+
 │ ├── logistic_regression.py
+
 │ ├── decision_tree.py
+
 │ ├── knn.py
+
 │ ├── naive_bayes.py
+
 │ ├── perceptron.py
+
 │
+
 │── ML_algorithms_experiments.ipynb # Notebook with Iris + Wine experiments
+
 │── README.md
+
 │── requirements.txt
+
 │── LICENSE
+
 
 ---
 
@@ -54,10 +66,11 @@ At the end, we include a **final comparison table and plot** across all algorith
 
 ## 🔧 Installation
 Clone this repo:
+
 git clone https://github.com/your-username/ML-Algorithms-From-Scratch.git
+
 cd ML-Algorithms-From-Scratch
 
----
 
 Install dependencies:
 
@@ -66,7 +79,9 @@ pip install -r requirements.txt
 ---
 
 📊 Usage
+
 Open the notebook:
+
 jupyter notebook experiments/all_algorithms.ipynb
 
 
@@ -81,6 +96,7 @@ Accuracy comparison between scratch vs sklearn implementations.
 ---
 
 🎯 Goals
+
 Learn how ML algorithms work under the hood.
 
 Compare performance with sklearn.
@@ -90,6 +106,7 @@ Build a foundation for more advanced algorithms in the future (SVM, ensembles, n
 ---
 
 📈 Results
+
 On Iris dataset, most algorithms reach high accuracy (>90%).
 
 On Wine dataset, results vary but still competitive with sklearn.
