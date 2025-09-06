@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ---
 
-📊 Usage
+## 📊 Usage
 
 Open the notebook:
 
@@ -95,7 +95,7 @@ Accuracy comparison between scratch vs sklearn implementations.
 
 ---
 
-🎯 Goals
+## 🎯 Goals
 
 Learn how ML algorithms work under the hood.
 
@@ -105,7 +105,7 @@ Build a foundation for more advanced algorithms in the future (SVM, ensembles, n
 
 ---
 
-📈 Results
+## 📈 Results
 
 On Iris dataset, most algorithms reach high accuracy (>90%).
 
@@ -117,5 +117,5 @@ Final comparison is summarized in tables + bar plots in the notebook.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests and suggestions are welcome! If you find an issue, feel free to open one.
