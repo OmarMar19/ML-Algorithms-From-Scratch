@@ -67,7 +67,7 @@ At the end, we include a **final comparison table and plot** across all algorith
 ## 🔧 Installation
 Clone this repo:
 
-git clone https://github.com/your-username/ML-Algorithms-From-Scratch.git
+git clone https://github.com/OmarMar19/ML-Algorithms-From-Scratch.git
 
 cd ML-Algorithms-From-Scratch
 
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 
 Open the notebook:
 
-jupyter notebook experiments/all_algorithms.ipynb
+jupyter notebook ML_algorithms_experiments.ipynb
 
 
 Inside, you’ll find:
